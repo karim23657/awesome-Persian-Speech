@@ -24,7 +24,8 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * [Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Models and demoes and training codes for Persian tts using [🐸 coqui-ai TTS](https://github.com/coqui-ai/TTS) [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/Kamtera/Persian-tts-CoquiTTS)
 * [fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) - TTS models for 1107 languages . 
 * [espeak-ng](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents. 
-* [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key. 
+* [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key.
+* [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) - 35 languages for speech output (Western Persian). [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/facebook/seamless_m4t)
 
 
 
