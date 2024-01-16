@@ -27,6 +27,8 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * [tihu](https://github.com/tihu-nlp/tihu) - an open source Persian text-to-speech engine ( better than espeak ).
 * [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key.
 * [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) - 35 languages for speech output (Western Persian). [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/facebook/seamless_m4t)
+* [pertts](https://github.com/SadeghKrmi/pertts-streamlit) - Very natural voice , can be used with [piper](https://github.com/rhasspy/piper) . [online demo](https://tts.datacula.com/) by [@SadeghKrmi](https://github.com/SadeghKrmi) , [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/k2-fsa/text-to-speech)
+* [piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system , Persian model trained by [@SadeghKrmi](https://github.com/SadeghKrmi)
 
 
 
