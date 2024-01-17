@@ -22,7 +22,7 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 
 * [mimic3](https://github.com/MycroftAI/mimic3) - A fast and local neural text to speech system that supports Persian ([Available voices](https://github.com/MycroftAI/mimic3-voices)). [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/Kamtera/persian-tts-mimic3)
 * [Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Models and demoes and training codes for Persian tts using [🐸 coqui-ai TTS](https://github.com/coqui-ai/TTS) [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/Kamtera/Persian-tts-CoquiTTS)
-* [fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) - TTS models for 1107 languages . 
+* [fairseq(mms tts)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) - TTS models for 1107 languages . [![Hugging Face Model](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/facebook/mms-tts-fas)
 * [espeak-ng](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.
 * [tihu](https://github.com/tihu-nlp/tihu) - an open source Persian text-to-speech engine ( better than espeak ).
 * [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key.
