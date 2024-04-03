@@ -30,6 +30,7 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * [pertts](https://github.com/SadeghKrmi/pertts-streamlit) - Very natural voice , can be used with [piper](https://github.com/rhasspy/piper) . [online demo](https://tts.datacula.com/) by [@SadeghKrmi](https://github.com/SadeghKrmi) , [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/k2-fsa/text-to-speech)
 * [piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system , Persian model trained by [@SadeghKrmi](https://github.com/SadeghKrmi) and [@gyroing](https://github.com/gyroing)
 * [Persian Piper Model gyro](https://huggingface.co/gyroing/Persian-Piper-Model-gyro) - Persian microsoft edge Farid voice , can be used with [piper](https://github.com/rhasspy/piper) , by [@gyroing](https://github.com/gyroing) , [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/gyroing/Persian_Piper_TTS_HAZM)
+* [Telegram TTSFarsi Channel](https://ttsfarsi.t.me/) - a channel to make an opensource multilingual multi voice tts for persian people
 
 
 
