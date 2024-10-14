@@ -46,6 +46,7 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * https://www.kaggle.com/datasets/magnoliasis/persian-tts-dataset-male
 * 20 hours : https://huggingface.co/datasets/MahtaFetrat/Quran-Persian
 * 86 hours : https://huggingface.co/datasets/MahtaFetrat/Mana-TTS
+* https://huggingface.co/datasets/SmartGitiCorp/persian_tts
 
 # voice conversion
 
