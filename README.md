@@ -53,6 +53,7 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * 20 hours : https://huggingface.co/datasets/MahtaFetrat/Quran-Persian
 * 86 hours : https://huggingface.co/datasets/MahtaFetrat/Mana-TTS
 * https://huggingface.co/datasets/SmartGitiCorp/persian_tts
+* 6 hours : [GPTInformal](https://github.com/MahtaFetrat/GPTInformal-Persian-Speech-Dataset)  https://huggingface.co/datasets/MahtaFetrat/GPTInformal-Persian
 
 # voice conversion
 
