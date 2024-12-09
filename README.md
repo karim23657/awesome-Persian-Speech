@@ -33,6 +33,12 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * [IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - a toolkit for teaching, training and using SOTA Speech Synthesis models. Supports Persian , [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/Flux9665/MassivelyMultilingualTTS)
 
 
+## Platforms
+| Windows <br> <img src="https://github.com/user-attachments/assets/6727ab83-b349-45c5-b962-f07f2c9e7599" width="37"> | Android <br> <img src="https://github.com/user-attachments/assets/316eb5ff-cf5b-4bf9-a212-d0eefe32daae" width="37"> | Web <br> <img src="https://github.com/user-attachments/assets/3dfe1728-f81c-4698-9d8a-e0947aeb860d" width="37"> |
+| :-------------: | :--------: | :---: |
+| [piper](https://github.com/rhasspy/piper)  | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)     | [Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) <br> [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/Kamtera/Persian-tts-CoquiTTS)  |
+| [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)   | [MultiTTS app](https://t.me/MultiTTS_channel) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karim23657/Persian-tts-coqui/blob/main/recepies/vits/test-vits-models.ipynb) |
+| | [smart-voice](https://blindhelp.net/software/smart-voice) | |
 
 
 
