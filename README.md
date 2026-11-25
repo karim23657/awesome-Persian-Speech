@@ -31,6 +31,7 @@ A collection of inspiring lists, repos, datasets, models, tools and more for Per
 * [piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system , Persian model trained by [@SadeghKrmi](https://github.com/SadeghKrmi) and [@gyroing](https://github.com/gyroing)
 * [Persian Piper Model gyro](https://huggingface.co/gyroing/Persian-Piper-Model-gyro) - Persian microsoft edge Farid voice , can be used with [piper](https://github.com/rhasspy/piper) , by [@gyroing](https://github.com/gyroing) , [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/gyroing/Persian_Piper_TTS_HAZM)
 * [IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - a toolkit for teaching, training and using SOTA Speech Synthesis models. Supports Persian , [![Hugging Face Spaces](https://cdn.statically.io/gh/karim23657/blogmaterials/main/assets/hf.svg)](https://huggingface.co/spaces/Flux9665/MassivelyMultilingualTTS)
+* [Finglish Persian text to speech](https://learnfinglish.com/tools/persian-audio) - Free browser tool that reads Persian script, or Persian typed in English letters, aloud in natural voices and saves an MP3. No signup to try.
 
 
 ## Platforms
